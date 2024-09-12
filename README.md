@@ -1,6 +1,6 @@
 # Hello, I'm Satria! 👋
 
-Welcome to my GitHub profile! I’m an **Undergraduate Student** specializing in **Electrical Engineering**. I’m passionate about merging mechanical systems with electronics and software to build innovative solutions.
+Welcome to my GitHub profile! I’m an **Undergraduate Student** specializing in **Electrical Engineering** at Politeknik Negeri Sriwijaya. I’m passionate about merging mechanical systems with electronics and software to build innovative solutions.
 
 ## 🚀 What I'm Passionate About
 
